@@ -1,10 +1,32 @@
-Directions: Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
-- If you teach CSA or CSP, you could use a different version of that course.
-- For other courses, look around for pre-packaged courses with similar aims. Many of the Curriculum providers we looked at for AP CSP also provide intro courses at the least.
-- Alternatively: Elementary school teachers that cannot find anything similar to compare to, or masters students may opt to compare two of the APCSP curricula that were linked in the Async portion of the assignment.
+## Directions: Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
 
-Focus on the following:
- - Major differences
- - Major similiarities
- - Comparative streangths & weaknesses (That is does one cover a topic paticularly better/worse over the other. If both seem equally good then no need to comment).
- - Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
+### Currently Taugtht course: PLTW Cybersecurity
+
+### Comparison Course: CodeHS Fundamentals of Cybersecurity
+
+
+ #### Major differences:
+ 
+ ##### PLTW
+  - Uses a virtual environment
+ 
+ 
+ ##### CodeHS
+  - utilizes a blended classroom approach
+  - content is a mix of web-based and physical activities
+  - Students will modify existing code and run it in the browser, investigate cyber related topics and reflect on them and discuss them, create digital presentations, and engage in in-person collaborative exercises with classmates
+  - Programming Environment:
+    -  Students modify and run programs in the browser using the CodeHS online editor
+    -  Students will be able to modify text-based programs in HTML, JavaScript, SQL and simulate shell commands.
+    -  Students will also participate in simulated cyber attacks on safe sites in order to learn how to mitigate cyber attacks.
+    -  Students will be able to document their processes and discuss best practices for preventing cyber attacks.
+ 
+ 
+ #### Major similiarities:
+ 
+ 
+ #### Comparative streangths & weaknesses:  (That is does one cover a topic paticularly better/worse over the other. If both seem equally good then no need to comment).
+ 
+ 
+ 
+ #### Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
