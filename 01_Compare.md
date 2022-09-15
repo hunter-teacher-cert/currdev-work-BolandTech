@@ -4,12 +4,15 @@
 
 ### Comparison Course: CodeHS Fundamentals of Cybersecurity
 
-
  #### Major differences:
  
  ##### PLTW
-  - Uses a virtual environment
- 
+  - problem-based learning, where students role-play and train as cybersecurity experts.
+  - strongly connects to the National Cybersecurity Workforce Framework (also known as the NICE Framework or NCWF).
+  - objectives also incorporate many of the big ideas and learning objectives outlined by the College Board and addressed in AP CSP and AP CSA
+  - gives students a broad exposure to the many aspects of digital and information security, while encouraging socially responsible choices and ethical behavior. It inspires algorithmic thinking, computational thinking, and especially, “outside-the-box” thinking.
+  - Students explore the many educational and career paths available to cybersecurity experts, as well as other careers that comprise the field of information security.
+
  
  ##### CodeHS
   - utilizes a blended classroom approach
@@ -25,12 +28,20 @@
  #### Major similiarities:
  
  ##### PLTW
-  
- 
+
+- Topics Covered:
+ - Personal Security 
+ - System Security 
+ - Network Security 
+ - Applied Cybersecurity
  
  ##### CodeHS
  
- 
+ - Topics Covered:
+  - Personal Security 
+  - System Security 
+  - Network Security 
+  - Applied Cybersecurity
  
  
  #### Comparative strengths & weaknesses:  (That is does one cover a topic paticularly better/worse over the other. If both seem equally good then no need to comment).
