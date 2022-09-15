@@ -24,8 +24,22 @@
  
  #### Major similiarities:
  
+ ##### PLTW
+  
  
- #### Comparative streangths & weaknesses:  (That is does one cover a topic paticularly better/worse over the other. If both seem equally good then no need to comment).
+ 
+ ##### CodeHS
+ 
+ 
+ 
+ 
+ #### Comparative strengths & weaknesses:  (That is does one cover a topic paticularly better/worse over the other. If both seem equally good then no need to comment).
+ 
+ ##### PLTW
+  
+ 
+ 
+ ##### CodeHS
  
  
  
