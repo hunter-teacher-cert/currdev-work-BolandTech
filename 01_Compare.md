@@ -25,9 +25,7 @@
     -  Students will be able to document their processes and discuss best practices for preventing cyber attacks.
  
  
- #### Major similiarities:
- 
- ##### PLTW
+ #### Major similiarities: Both PLTW & CodeHS curricula cover the same topics in varied fashion.
 
 - Topics Covered:
  - Personal Security 
@@ -35,15 +33,7 @@
  - Network Security 
  - Applied Cybersecurity
  
- ##### CodeHS
- 
- - Topics Covered:
-  - Personal Security 
-  - System Security 
-  - Network Security 
-  - Applied Cybersecurity
- 
- 
+
  #### Comparative strengths & weaknesses:  (That is does one cover a topic paticularly better/worse over the other. If both seem equally good then no need to comment).
  
  ##### PLTW
