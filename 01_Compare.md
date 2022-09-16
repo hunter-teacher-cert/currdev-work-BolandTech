@@ -1,4 +1,4 @@
-## Directions: Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
+## Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
 
 ### Currently Taugtht Course: PLTW Cybersecurity
 
