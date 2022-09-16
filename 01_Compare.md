@@ -32,7 +32,8 @@ while being provided with support within those contexts.
 
 ##### PLTW
 
-- Topics Covered:
+Topics Covered:
+
  - Unit 1: Personal Security (27-28 Days)
   - Lesson 1.1: Introduction to Cybersecurity (10 Days)
   - Lesson 1.2: Security and the Internet (12-13 Days)
