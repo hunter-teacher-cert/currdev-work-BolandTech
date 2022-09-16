@@ -34,32 +34,32 @@ while being provided with support within those contexts.
 
 Topics Covered:
 
- - Unit 1: Personal Security (27-28 Days)
-  - Lesson 1.1: Introduction to Cybersecurity (10 Days)
-  - Lesson 1.2: Security and the Internet (12-13 Days)
-  - Lesson 1.3: Protect Your Data (5 Days)
+ - Unit 1: Personal Security (27-28 Days) 
+   - Lesson 1.1: Introduction to Cybersecurity (10 Days)
+   - Lesson 1.2: Security and the Internet (12-13 Days)
+   - Lesson 1.3: Protect Your Data (5 Days)
   
  - Unit 2: System Security (33 days)
-  - Lesson 2.1: Information Architecture (8 days)
-  - Lesson 2.2: Server Vulnerabilities (8 days) 
-  - Lesson 2.3: Server Exploits (12 days) 
-  - Lesson 2.4: The Ecommerce Site (5 days)
+   - Lesson 2.1: Information Architecture (8 days)
+   - Lesson 2.2: Server Vulnerabilities (8 days) 
+   - Lesson 2.3: Server Exploits (12 days) 
+   - Lesson 2.4: The Ecommerce Site (5 days)
 
  - Unit 3: Network Security (46 Days)
-  - Lesson 3.1: Files and Processes (11 days) 
-  - Lesson 3.2: Attacks from the Net (14 days) 
-  - Lesson 3.3: Analyzing the Net (13 days) 
-  - Lesson 3.4: Secure the Net (8 days)
+   - Lesson 3.1: Files and Processes (11 days) 
+   - Lesson 3.2: Attacks from the Net (14 days) 
+   - Lesson 3.3: Analyzing the Net (13 days) 
+   - Lesson 3.4: Secure the Net (8 days)
 
  - Unit 4: Applied Cybersecurity (42 Days)
-  - Lesson 4.1 Cryptography (19 days)
-  - Lesson 4.2 Digital Forensics (16 days)
-  - Lesson 4.3 Criminal Justice and Computer Science (7 days)
+   - Lesson 4.1 Cryptography (19 days)
+   - Lesson 4.2 Digital Forensics (16 days)
+   - Lesson 4.3 Criminal Justice and Computer Science (7 days)
  
 
 ##### CodeHS
 
-- Topics Covered:
+Topics Covered:
 
  - Module 1: What is Cybersecurity? (1-2 weeks/5-10 hours)
  - Module 2: Digital Citizenship and Cyber Hygiene (1-2 weeks/5-10 hours)
