@@ -1,8 +1,9 @@
 ## Directions: Compare the curriculum for a CS class you currently/will/have recently taught with a pre-packaged curriculum for the same course (or a course with similar focus).
 
-### Currently Taugtht course: PLTW Cybersecurity
+### Currently Taugtht Course: PLTW Cybersecurity
 
 ### Comparison Course: CodeHS Fundamentals of Cybersecurity
+
 
  #### Major differences:
  
@@ -13,7 +14,6 @@
   - gives students a broad exposure to the many aspects of digital and information security, while encouraging socially responsible choices and ethical behavior. It inspires algorithmic thinking, computational thinking, and especially, “outside-the-box” thinking.
   - Students explore the many educational and career paths available to cybersecurity experts, as well as other careers that comprise the field of information security.
 
- 
  ##### CodeHS
   - utilizes a blended classroom approach
   - content is a mix of web-based and physical activities
@@ -39,7 +39,6 @@ while being provided with support within those contexts.
   - Lesson 1.2: Security and the Internet (12-13 Days)
   - Lesson 1.3: Protect Your Data (5 Days)
   
-
  - Unit 2: System Security (33 days)
   - Lesson 2.1: Information Architecture (8 days)
   - Lesson 2.2: Server Vulnerabilities (8 days) 
@@ -59,6 +58,7 @@ while being provided with support within those contexts.
  
 
 ##### CodeHS
+
 - Topics Covered:
 
  - Module 1: What is Cybersecurity? (1-2 weeks/5-10 hours)
@@ -76,7 +76,8 @@ while being provided with support within those contexts.
  #### Both curricula seem equally good, the approach in covering the topics are just different/varied for each.
  
  
- 
  #### Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
+ 
+ I would like to incorporate the programming environement component included with the codeHS curriculum.  While I like the problem-based learning, I think the codeHS does a good job of incorporating some coding along with projects. 
  
  
