@@ -73,7 +73,7 @@ Topics Covered:
  - Module 10: IT Infrastructure (2-3 weeks/10-15 hours)
  - Module 11: Project: Troubleshooting Project (1 week/5 hours)
 
- #### Both curricula seem equally good, the approach in covering the topics are just different/varied for each.
+ #### Both curricula seem equally good and are both year-long corses. the approach in covering the topics are just different/varied for each.
  
  
  #### Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
