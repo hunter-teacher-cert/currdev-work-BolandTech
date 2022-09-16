@@ -78,6 +78,6 @@ Topics Covered:
  
  #### Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
  
- I would like to incorporate the programming environment component included with the codeHS curriculum.  While I like the problem-based learning, I think the codeHS does a good job of incorporating some coding along with projects. 
+ I would like to incorporate the programming environment component included with the codeHS curriculum.  While I like the problem-based learning focus of PLTW, I think the codeHS does a good job of incorporating some coding along with projects. 
  
  
