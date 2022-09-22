@@ -6,7 +6,7 @@ This would be a semester long course that focuses on introducing students from a
 
 Students will be expected to form their own questions about the world around them, analyze data using multiple methods, and write a research paper about their findings. The course will cover functions, looping and iteration, data visualization, and linear regression, to name a few Computer Science concepts. The overall content of the course will involve social studies, science, and business concepts which will help students make inferences from data. Students will also be introduced to foundational mathematical concepts in statistics.
 
-* Modified from Bootstrap Data Science
+- Modified from Bootstrap Data Science
 
 ## Target audience: 
 
