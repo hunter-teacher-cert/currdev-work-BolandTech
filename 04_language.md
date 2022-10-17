@@ -1,5 +1,3 @@
-
-
 ### What is the language?
 
 Javscript
@@ -28,6 +26,7 @@ Weaknesses
 
 
 
-Resources:
+Resources
+---
 
 Javscript https://www.javascript.com/
