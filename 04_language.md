@@ -49,7 +49,8 @@ As a way to mitigate weaknesses, I would be sure to incorporate code-a-longs.
 
 I selected this language because I think it isn't too dificult for a beginner coder to learn.
 
-Resources
+
+### Resources
 ---
 
 - Javscript https://www.javascript.com/
